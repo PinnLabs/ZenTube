@@ -6,6 +6,10 @@
   <em>The things we love always remain within us. ~ Carlos Drummond de Andrade</em>
 </p>
 
+<p align="center">
+  <em><strong>made in Brazil 🇧🇷</strong></em>
+</p>
+
 ---
 
 ## About
